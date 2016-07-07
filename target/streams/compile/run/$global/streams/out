@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0mRunning tutorial.webapp.TutorialApp[0m
+[0m[[0mdebug[0m] [0mwith JSEnv ExternalJSEnv for PhantomJS[0m
+[0m[[0mdebug[0m] [0mPhantomJS using webpage launcher at: /tmp/phantomjs-launcher-webpage2971463345667184192.html[0m
+[0m[[0mdebug[0m] [0mPhantomJS using launcher at: /tmp/phantomjs-launcher3321976958405239419.js[0m
+[0m[[0mdebug[0m] [0mStarting process: phantomjs /tmp/phantomjs-launcher3321976958405239419.js[0m

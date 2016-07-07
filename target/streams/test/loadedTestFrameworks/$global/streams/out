@@ -1,0 +1,29 @@
+[0m[[0mdebug[0m] [0mPhantomJS WS Jetty: INFO: jetty-8.1.16.v20140903 WrappedArray()[0m
+[0m[[0mdebug[0m] [0mPhantomJS WS Jetty: INFO: Started {} WrappedArray(SelectChannelConnector@localhost:41851)[0m
+[0m[[0mdebug[0m] [0mPhantomJS using webpage launcher at: /tmp/phantomjs-launcher-webpage892300090308573335.html[0m
+[0m[[0mdebug[0m] [0mPhantomJS using launcher at: /tmp/phantomjs-launcher5229401302303529877.js[0m
+[0m[[0mdebug[0m] [0mStarting process: phantomjs /tmp/phantomjs-launcher5229401302303529877.js[0m
+[0m[[0mdebug[0m] [0mPhantomJS WS Jetty: WARN: 1 threads could not be stopped WrappedArray()[0m
+[0m[[0mdebug[0m] [0mPhantomJS WS Jetty: INFO: Couldn't stop Thread[qtp2041592800-18715,5,main] WrappedArray()[0m
+[0m[[0mdebug[0m] [0mPhantomJS WS Jetty: INFO:  at org.eclipse.jetty.util.component.AbstractLifeCycle.stop(AbstractLifeCycle.java:86) WrappedArray()[0m
+[0m[[0mdebug[0m] [0mPhantomJS WS Jetty: INFO:  at org.scalajs.jsenv.phantomjs.JettyWebsocketManager$ComWebSocketListener.onClose(JettyWebsocketManager.scala:62) WrappedArray()[0m
+[0m[[0mdebug[0m] [0mPhantomJS WS Jetty: INFO:  at org.eclipse.jetty.websocket.WebSocketConnectionRFC6455.closeIn(WebSocketConnectionRFC6455.java:332) WrappedArray()[0m
+[0m[[0mdebug[0m] [0mPhantomJS WS Jetty: INFO:  at org.eclipse.jetty.websocket.WebSocketConnectionRFC6455$WSFrameHandler.onFrame(WebSocketConnectionRFC6455.java:814) WrappedArray()[0m
+[0m[[0mdebug[0m] [0mPhantomJS WS Jetty: INFO:  at org.eclipse.jetty.websocket.WebSocketParserRFC6455.parseNext(WebSocketParserRFC6455.java:349) WrappedArray()[0m
+[0m[[0mdebug[0m] [0mPhantomJS WS Jetty: INFO:  at org.eclipse.jetty.websocket.WebSocketConnectionRFC6455.handle(WebSocketConnectionRFC6455.java:225) WrappedArray()[0m
+[0m[[0mdebug[0m] [0mPhantomJS WS Jetty: INFO:  at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:696) WrappedArray()[0m
+[0m[[0mdebug[0m] [0mPhantomJS WS Jetty: INFO:  at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:53) WrappedArray()[0m
+[0m[[0mdebug[0m] [0mPhantomJS WS Jetty: INFO:  at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608) WrappedArray()[0m
+[0m[[0mdebug[0m] [0mPhantomJS WS Jetty: INFO:  at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543) WrappedArray()[0m
+[0m[[0mdebug[0m] [0mPhantomJS WS Jetty: INFO:  at java.lang.Thread.run(Thread.java:745) WrappedArray()[0m
+[0m[[0mdebug[0m] [0mPhantomJS WS Jetty: WARN: {} for {} WrappedArray(java.lang.Exception: Abnormal closing of connection. Code: 1005, Reason: null, SCEP@7dae2e0e{l(null)<->r(0.0.0.0/0.0.0.0:41851),s=1,open=false,ishut=true,oshut=true,rb=false,wb=false,w=true,i=1!}-{WebSocketServletConnectionRFC6455 p=WebSocketParserRFC6455@7337c643 state=DATA buffer= g=WebSocketGeneratorRFC6455@7fe55875 closed=true buffer=2}, java.lang.Exception: Abnormal closing of connection. Code: 1005, Reason: null)[0m
+[0m[[0mdebug[0m] [0mPhantomJS WS Jetty: INFO: jetty-8.1.16.v20140903 WrappedArray()[0m
+[0m[[0mdebug[0m] [0mPhantomJS WS Jetty: INFO: Started {} WrappedArray(SelectChannelConnector@localhost:36905)[0m
+[0m[[0mdebug[0m] [0mPhantomJS using webpage launcher at: /tmp/phantomjs-launcher-webpage4985906365840484121.html[0m
+[0m[[0mdebug[0m] [0mPhantomJS using launcher at: /tmp/phantomjs-launcher7476026291254680884.js[0m
+[0m[[0mdebug[0m] [0mStarting process: phantomjs /tmp/phantomjs-launcher7476026291254680884.js[0m
+[0m[[0mdebug[0m] [0mPhantomJS WS Jetty: INFO: jetty-8.1.16.v20140903 WrappedArray()[0m
+[0m[[0mdebug[0m] [0mPhantomJS WS Jetty: INFO: Started {} WrappedArray(SelectChannelConnector@localhost:41379)[0m
+[0m[[0mdebug[0m] [0mPhantomJS using webpage launcher at: /tmp/phantomjs-launcher-webpage2318901474124651924.html[0m
+[0m[[0mdebug[0m] [0mPhantomJS using launcher at: /tmp/phantomjs-launcher3831292507390107710.js[0m
+[0m[[0mdebug[0m] [0mStarting process: phantomjs /tmp/phantomjs-launcher3831292507390107710.js[0m

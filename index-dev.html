@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>The Scala.js Tutorial</title>
+  </head>
+  <body>
+    <h2>Hanojské věže</h2>
+    Budeme si hrát se
+    <select id="pocetDisku">
+        <option value="3">třemi disky</option>
+        <option value="4">čtyřmi disky</option>
+        <option value="5">pěti disky</option>
+        <option value="6">šesti disky</option>
+        <option value="7">sedmi disky</option>
+    </select>
+    <div id="playground">
+    <canvas id="plocha" style="display: block;"/>
+    </div>
+
+    <textarea id="historie" rows="10" cols="50">
+    </textarea>
+
+
+    <!-- Include Scala.js compiled code -->
+    <script type="text/javascript" src="./target/scala-2.11/scala-js-hanoi-fastopt.js"></script>
+    <!-- Run tutorial.webapp.TutorialApp -->
+    <script type="text/javascript">
+      hanoi.veze.HanojskeVeze().main(document.getElementById('pocetDisku'),
+                                     document.getElementById('plocha'),
+                                     document.getElementById('historie'));
+    </script>
+
+
+
+  </body>
+</html>

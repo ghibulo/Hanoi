@@ -1,0 +1,10 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(tutorial.webapp.TutorialTest, org.scalajs.testadapter.FingerprintSerializers$DeserializedSubclassFingerprint@1ea3fb51, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m-----------------------------------Results-----------------------------------[0m
+[0m[[0minfo[0m] [0mtutorial.webapp.TutorialTest		[32mSuccess[0m[0m
+[0m[[0minfo[0m] [0m    HelloWorld		[32mSuccess[0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0mTests: 2[0m
+[0m[[0minfo[0m] [0mPassed: 2[0m
+[0m[[0minfo[0m] [0mFailed: 0[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	tutorial.webapp.TutorialTest[0m
